@@ -37,7 +37,6 @@ The system is assembled on a Breadboard HQ (830 points) with Breadboard Jumper W
 | L298N Dual Motor Driver | Motor | [10.99 RON](https://www.optimusdigital.ro/en/brushed-motor-drivers/145-l298n-dual-motor-driver.html?srsltid=AfmBOoqwFgqYLe84tv8JPwx6YgXOAKAlEkKPCjQdB1hPojCcXELARgGb) |
 | Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
 | Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
-
 | SN04-N Inductive Proximity Sensor | Sensor | [14.99 RON](https://www.optimusdigital.ro/en/distance-sensors/8184-sn04-n-inductive-proximity-sensor.html?srsltid=AfmBOooejlVhL7s9Vi1X7dW2hJJdSA7u-HKxUFmRYQy3J-wKV2hKZWPz) |
 |  1602 LCD with I2C Interface and Yellow-Green Backlight| Display | [14.99 RON](https://www.optimusdigital.ro/en/lcds/62-1602-lcd-with-i2c-interface-and-yellow-green-backlight.html?srsltid=AfmBOopKAZIufweGjhokxFL0AXa6k3RrFd3zKV7rbfG8a5CgpLMtb1j5) |
 | Development Board Compatible with Arduino UNO R3 (ATmega328p + ATmega16u2) + 50 cm Cable | Connection | [54.37 RON](https://www.optimusdigital.ro/en/avr-boards/4561-development-board-compatible-with-arduino-uno-r3-atmega328p-atmega16u2-50-cm-cable.html?srsltid=AfmBOooboVulUufX3IPWz_unFjWUzWObENSPxptNosI_wOPummSdngfG) |
