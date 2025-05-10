@@ -25,7 +25,7 @@ The system is assembled on a Breadboard HQ (830 points) with Breadboard Jumper W
 
 ### Schematic
 
-![Schematic](Schema_electrica.png)
+![Schematic](Schema_electrica1.png)
 
 ### Components
 
@@ -52,8 +52,6 @@ The system is assembled on a Breadboard HQ (830 points) with Breadboard Jumper W
 
 
 ## Log
-
-@@ -59,4 +66,4 @@
 
 [Article 1](https://www.explainthatstuff.com/induction-motors.html)
 
