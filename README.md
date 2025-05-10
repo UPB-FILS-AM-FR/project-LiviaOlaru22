@@ -21,11 +21,11 @@ The system is assembled on a Breadboard HQ (830 points) with Breadboard Jumper W
 
 <!-- Make sure the path to the picture is correct -->
 
-![Block Diagram](schematics/Schema.png)
+![Block Diagram](Schema.png)
 
 ### Schematic
 
-![Schematic](schematics/Schema_electrica.png)
+![Schematic](Schema_electrica.png)
 
 ### Components
 
